@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+      {
+        "appID": "7M8V3XT7LM.inc.buddy.buddy",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
